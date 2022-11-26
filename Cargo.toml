@@ -21,3 +21,4 @@ members = [
 
 [dependencies]
 clap = "4.0.27"
+tags = { path = "tags" }
